@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11dadf2c.css",
+    "main.js": "/static/js/main.831aa797.js",
+    "static/js/239.9b754538.chunk.js": "/static/js/239.9b754538.chunk.js",
+    "static/js/977.0cefac04.chunk.js": "/static/js/977.0cefac04.chunk.js",
+    "static/js/455.9e4599c4.chunk.js": "/static/js/455.9e4599c4.chunk.js",
+    "static/media/restaurant_second_image.png": "/static/media/restaurant_second_image.850d9eb9ec8318983381.png",
+    "static/media/logo.png": "/static/media/logo.4dfcdbe9b74675cb3eaa.png",
+    "static/media/chickenbriyani.jpg": "/static/media/chickenbriyani.8a56d331b0ed05f0035e.jpg",
+    "static/media/eggtorka.jpg": "/static/media/eggtorka.f484601ed06a79955b0d.jpg",
+    "static/media/mogali.jpg": "/static/media/mogali.4aa567f9de1a0cb1ce43.jpg",
+    "static/media/mottoponir.jpg": "/static/media/mottoponir.55e5c8837b2473203b68.jpg",
+    "static/media/special.jpg": "/static/media/special.54ef89a0a5983fd4d11b.jpg",
+    "static/media/roll.jpg": "/static/media/roll.06a5cb35c5a7ff7f2509.jpg",
+    "static/media/tandori.jpg": "/static/media/tandori.66d3325e045b3d3bb5bc.jpg",
+    "static/media/chickenkosha.jpg": "/static/media/chickenkosha.7dae962a79e48d15d938.jpg",
+    "static/media/chickenfriedrice.jpg": "/static/media/chickenfriedrice.49e7d9c6f06a492667ef.jpg",
+    "static/media/nanruti.jpg": "/static/media/nanruti.737b1c24a50050eb2260.jpg",
+    "static/media/ricechicken.jpg": "/static/media/ricechicken.71ec36b1d52d9b8b2ad1.jpg",
+    "static/media/chickenchap.jpg": "/static/media/chickenchap.8f54b5540c8ae47c7ff2.jpg",
+    "static/media/butterchicken.jpg": "/static/media/butterchicken.45d50bf36095fcc25f4d.jpg",
+    "static/media/chickenthali.jpg": "/static/media/chickenthali.1b90c468c0bb50d35b2e.jpg",
+    "static/media/chowmin.jpg": "/static/media/chowmin.cc5fbffe4c066185519b.jpg",
+    "static/media/vegthali.jpg": "/static/media/vegthali.6901a6f18fe71b8f1a70.jpg",
+    "index.html": "/index.html",
+    "main.11dadf2c.css.map": "/static/css/main.11dadf2c.css.map",
+    "main.831aa797.js.map": "/static/js/main.831aa797.js.map",
+    "239.9b754538.chunk.js.map": "/static/js/239.9b754538.chunk.js.map",
+    "977.0cefac04.chunk.js.map": "/static/js/977.0cefac04.chunk.js.map",
+    "455.9e4599c4.chunk.js.map": "/static/js/455.9e4599c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11dadf2c.css",
+    "static/js/main.831aa797.js"
+  ]
+}
