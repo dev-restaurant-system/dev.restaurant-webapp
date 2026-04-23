@@ -35,16 +35,50 @@ The central control system for dev.restaurant-webapp ecosystem. Built with React
 
 ## 📸 Screenshots
 
-<div align="center">
-  <img src="Screenshots/assigndelivery_devres.png" width="300" />
-  <img src="Screenshots/dashboard_devres.png" width="300" />
-  <img src="Screenshots/dinning_devres.png" width="300"/>
-  <img src="Screenshots/history_devres.png" width="300"/>
-  <img src="Screenshots/menu_devres.png" width="300"/>
-  <img src="Screenshots/order_devres.png" width="300"/>
-  <img src="Screenshots/ordersafterdelivery_devres.png" width="300"/>
-  <img src="Screenshots/thermalprint_devres.png" width="300"/>
-</div>
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/dashboard_devres.png" width="300" /><br />
+      <b> Dashboard of control system here come notufication if any order come</b>
+    </td>
+    <td align="center">
+      <img src="Screenshots/order_devres.png" width="300" /><br />
+      <b>Real-Time Order Management</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/assigndelivery_devres.png" width="300" /><br />
+      <b>Assign Delivery Partner</b>
+    </td>
+    <td align="center">
+      <img src="Screenshots/dinning_devres.png" width="300"/><br />
+      <b>Dining POS & Billing System</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/menu_devres.png" width="300"/><br />
+      <b>Menu & Stock Management</b>
+    </td>
+    <td align="center">
+      <img src="Screenshots/thermalprint_devres.png" width="300"/><br />
+      <b>Thermal Print Manager</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/history_devres.png" width="300"/><br />
+      <b>Order History & PDF Reports</b>
+    </td>
+    <td align="center">
+      <img src="Screenshots/ordersafterdelivery_devres.png" width="300"/><br />
+      <b>Completed Order Feed</b>
+    </td>
+  </tr>
+</table>
 
 ##  Local Development Setup
 
