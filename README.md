@@ -35,17 +35,15 @@ The central control system for dev.restaurant-webapp ecosystem. Built with React
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 <table>
   <tr>
     <td align="center">
       <img src="Screenshots/dashboard_devres.png" width="300" /><br />
-      <b> Dashboard of control system here come notufication if any order come</b>
+      <b>Dashboard for upcomming order with notification system</b>
     </td>
     <td align="center">
       <img src="Screenshots/order_devres.png" width="300" /><br />
-      <b>Real-Time Order Management</b>
+      <b>Real-Time Order Management & assign order to delivery partner</b>
     </td>
   </tr>
   <tr>
@@ -74,7 +72,7 @@ The central control system for dev.restaurant-webapp ecosystem. Built with React
       <b>Order History & PDF Reports</b>
     </td>
     <td align="center">
-      <img src="Screenshots/ordersafterdelivery_devres.png" width="300"/><br />
+      <img src="Screenshots/ordersafterassign_devres.png" width="300"/><br />
       <b>Completed Order Feed</b>
     </td>
   </tr>
@@ -82,6 +80,6 @@ The central control system for dev.restaurant-webapp ecosystem. Built with React
 
 ##  Local Development Setup
 
-**Clone the repository:**
-   ```bash
-   git clone [https://github.com/dev-restaurant-system/dev.restaurant-webapp.git](https://github.com/dev-restaurant-system/dev.restaurant-webapp.git) ```
+**1. Clone the repository:**
+```bash
+git clone [https://github.com/dev-restaurant-system/dev.restaurant-webapp.git](https://github.com/dev-restaurant-system/dev.restaurant-webapp.git) 
