@@ -36,14 +36,14 @@ The central control system for dev.restaurant-webapp ecosystem. Built with React
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshots/assigndelivery_devres.png" width="300" />
-  <img src="screenshots/dashboard_devres.png" width="300" />
-  <img src="screenshots/dinning_devres.png" width="300"/>
-  <img src="screenshots/history_devres.png" width="300"/>
-  <img src="screenshots/menu_devres.png" width="300"/>
-  <img src="screenshots/order_devres.png" width="300"/>
-  <img src="screenshots/ordersafterdelivery_devres.png" width="300"/>
-  <img src="screenshots/thermalprint_devres.png" width="300"/>
+  <img src="Screenshots/assigndelivery_devres.png" width="300" />
+  <img src="Screenshots/dashboard_devres.png" width="300" />
+  <img src="Screenshots/dinning_devres.png" width="300"/>
+  <img src="Screenshots/history_devres.png" width="300"/>
+  <img src="Screenshots/menu_devres.png" width="300"/>
+  <img src="Screenshots/order_devres.png" width="300"/>
+  <img src="Screenshots/ordersafterdelivery_devres.png" width="300"/>
+  <img src="Screenshots/thermalprint_devres.png" width="300"/>
 </div>
 
 ##  Local Development Setup
